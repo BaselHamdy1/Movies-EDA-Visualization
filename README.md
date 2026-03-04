@@ -97,13 +97,7 @@ Each row represents one movie.
 * **Drama** grew the fastest over time, peaking at 265 movies in 2021
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository
-2. Install dependencies:
-```bash
-pip install pandas seaborn matplotlib
+ll pandas seaborn matplotlib
 ```
 3. Place `mymoviedb.csv` in the project directory
 4. Open and run `Movies_EDA-Visuals.ipynb` in Jupyter Notebook
