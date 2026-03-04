@@ -1,4 +1,4 @@
-# 🎬 Movies EDA (Pandas & Seaborn)
+# 🎬 Movies EDA-Visuals
 
 ## 📌 Overview
 This project performs Exploratory Data Analysis (EDA) on a movie dataset using Python, Pandas, and Seaborn.
