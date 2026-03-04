@@ -96,8 +96,4 @@ Each row represents one movie.
 * **Vote count is a trust signal** — ratings stabilize between 7–9 only when vote count is high
 * **Drama** grew the fastest over time, peaking at 265 movies in 2021
 
----
-ll pandas seaborn matplotlib
-```
-3. Place `mymoviedb.csv` in the project directory
-4. Open and run `Movies_EDA-Visuals.ipynb` in Jupyter Notebook
+
